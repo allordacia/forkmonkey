@@ -559,6 +559,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: background: blue_sky \u2192 white"
+    },
+    {
+      "timestamp": "2025-12-23T00:31:59.485670",
+      "dna_hash": "f2a8bbda1716213c",
+      "generation": 2,
+      "mutation_count": 4,
+      "rarity_score": 10.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "happy",
+        "accessory": "none",
+        "pattern": "stripes",
+        "background": "white",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: pattern: gradient \u2192 stripes"
     }
   ]
 }
