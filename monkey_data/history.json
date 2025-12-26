@@ -607,6 +607,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: pattern: stripes \u2192 diamonds"
+    },
+    {
+      "timestamp": "2025-12-26T00:32:18.357431",
+      "dna_hash": "2704609e0bd95981",
+      "generation": 2,
+      "mutation_count": 5,
+      "rarity_score": 11.666666666666666,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "happy",
+        "accessory": "none",
+        "pattern": "diamonds",
+        "background": "white",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
