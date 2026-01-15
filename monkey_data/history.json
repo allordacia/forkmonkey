@@ -927,6 +927,22 @@
         "special": "none"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-01-15T00:30:50.839768",
+      "dna_hash": "31edaadfa177d018",
+      "generation": 2,
+      "mutation_count": 17,
+      "rarity_score": 13.333333333333334,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "neutral",
+        "accessory": "simple_hat",
+        "pattern": "stars",
+        "background": "sunset",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
