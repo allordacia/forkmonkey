@@ -991,6 +991,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: accessory: bow \u2192 simple_hat"
+    },
+    {
+      "timestamp": "2026-01-19T00:35:50.779542",
+      "dna_hash": "fb96195ab3422933",
+      "generation": 2,
+      "mutation_count": 22,
+      "rarity_score": 13.333333333333334,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "neutral",
+        "accessory": "simple_hat",
+        "pattern": "stars",
+        "background": "sunset",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
