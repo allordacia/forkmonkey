@@ -1199,6 +1199,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: pattern: stars \u2192 diamonds"
+    },
+    {
+      "timestamp": "2026-02-01T00:45:58.384604",
+      "dna_hash": "ab7c57ae3ed7e33a",
+      "generation": 2,
+      "mutation_count": 28,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "curious",
+        "accessory": "headphones",
+        "pattern": "diamonds",
+        "background": "sunset",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: body_color: golden \u2192 bronze"
     }
   ]
 }
