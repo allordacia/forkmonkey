@@ -1231,6 +1231,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: pattern: diamonds \u2192 hearts, background: sunset \u2192 green_grass"
+    },
+    {
+      "timestamp": "2026-02-03T00:40:41.130810",
+      "dna_hash": "70201c2b21fdff28",
+      "generation": 2,
+      "mutation_count": 32,
+      "rarity_score": 13.333333333333334,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "curious",
+        "accessory": "headphones",
+        "pattern": "gradient",
+        "background": "green_grass",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: pattern: hearts \u2192 gradient"
     }
   ]
 }
