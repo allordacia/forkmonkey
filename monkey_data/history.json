@@ -1791,6 +1791,22 @@
         "special": "shadow"
       },
       "story": "Your monkey evolved! Changes: body_color: purple \u2192 golden"
+    },
+    {
+      "timestamp": "2026-03-10T00:36:20.550915",
+      "dna_hash": "1d5381126ee8e65b",
+      "generation": 2,
+      "mutation_count": 51,
+      "rarity_score": 16.666666666666664,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "mischievous",
+        "accessory": "sunglasses",
+        "pattern": "gradient",
+        "background": "white",
+        "special": "shadow"
+      },
+      "story": "Your monkey evolved! Changes: accessory: crown \u2192 sunglasses"
     }
   ]
 }
