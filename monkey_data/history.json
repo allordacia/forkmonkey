@@ -1999,6 +1999,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: accessory: sunglasses \u2192 wizard_hat"
+    },
+    {
+      "timestamp": "2026-03-23T00:43:43.752618",
+      "dna_hash": "fe22dd90b2f93313",
+      "generation": 2,
+      "mutation_count": 56,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "mischievous",
+        "accessory": "wizard_hat",
+        "pattern": "gradient",
+        "background": "green_grass",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: body_color: golden \u2192 green"
     }
   ]
 }
