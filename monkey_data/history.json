@@ -2015,6 +2015,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: body_color: golden \u2192 green"
+    },
+    {
+      "timestamp": "2026-03-24T00:36:44.614679",
+      "dna_hash": "bf957f76c6fb0015",
+      "generation": 2,
+      "mutation_count": 57,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "mischievous",
+        "accessory": "wizard_hat",
+        "pattern": "gradient",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: background: green_grass \u2192 blue_sky"
     }
   ]
 }
