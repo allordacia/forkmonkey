@@ -2223,6 +2223,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: background: sunset \u2192 city"
+    },
+    {
+      "timestamp": "2026-04-06T00:47:18.836578",
+      "dna_hash": "b5f140d52795e6ee",
+      "generation": 2,
+      "mutation_count": 64,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "happy",
+        "accessory": "wizard_hat",
+        "pattern": "gradient",
+        "background": "city",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
