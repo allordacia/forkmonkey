@@ -2543,6 +2543,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: pattern: gradient \u2192 stripes"
+    },
+    {
+      "timestamp": "2026-04-26T00:53:44.702920",
+      "dna_hash": "2db25450116195df",
+      "generation": 2,
+      "mutation_count": 66,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "happy",
+        "accessory": "laser_eyes",
+        "pattern": "stripes",
+        "background": "city",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
