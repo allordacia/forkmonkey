@@ -1,9 +1,9 @@
 {
-  "dna_hash": "2db25450116195df",
+  "dna_hash": "75be2b8a47966e59",
   "generation": 2,
   "age_days": 0,
-  "mutation_count": 66,
-  "rarity_score": 25.0,
+  "mutation_count": 69,
+  "rarity_score": 26.666666666666668,
   "parent_id": "607d9f7ac7e9bc45",
   "traits": {
     "body_color": {
@@ -15,12 +15,12 @@
       "rarity": "common"
     },
     "accessory": {
-      "value": "laser_eyes",
+      "value": "halo",
       "rarity": "rare"
     },
     "pattern": {
-      "value": "stripes",
-      "rarity": "common"
+      "value": "hearts",
+      "rarity": "uncommon"
     },
     "background": {
       "value": "city",
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-04-27T00:53:29.090257"
+  "last_updated": "2026-04-28T00:55:17.771767"
 }
