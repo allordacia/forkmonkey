@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "607d9f7ac7e9bc45",
-  "dna_hash": "56287b938d9d90a1",
-  "mutation_count": 87,
+  "dna_hash": "a2e7bfa01d719992",
+  "mutation_count": 88,
   "birth_timestamp": 656402,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "bd474567"
     },
     "face_expression": {
-      "value": "neutral",
+      "value": "sleepy",
       "rarity": "common",
-      "gene_sequence": "374db983"
+      "gene_sequence": "399185f3"
     },
     "accessory": {
       "value": "wizard_hat",
