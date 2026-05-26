@@ -3023,6 +3023,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: background: aurora \u2192 space"
+    },
+    {
+      "timestamp": "2026-05-26T01:01:09.975318",
+      "dna_hash": "f70c45e37a747a13",
+      "generation": 2,
+      "mutation_count": 92,
+      "rarity_score": 31.666666666666664,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "curious",
+        "accessory": "wizard_hat",
+        "pattern": "swirls",
+        "background": "space",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
