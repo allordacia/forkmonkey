@@ -3215,6 +3215,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: pattern: swirls \u2192 gradient"
+    },
+    {
+      "timestamp": "2026-06-07T01:10:36.543920",
+      "dna_hash": "85dddf73b5515199",
+      "generation": 2,
+      "mutation_count": 95,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "sleepy",
+        "accessory": "wizard_hat",
+        "pattern": "gradient",
+        "background": "space",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
