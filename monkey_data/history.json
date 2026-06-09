@@ -3247,6 +3247,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: face_expression: sleepy \u2192 curious"
+    },
+    {
+      "timestamp": "2026-06-09T01:02:23.583528",
+      "dna_hash": "934d110e99abce00",
+      "generation": 2,
+      "mutation_count": 97,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "curious",
+        "accessory": "wizard_hat",
+        "pattern": "spots",
+        "background": "space",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: pattern: gradient \u2192 spots"
     }
   ]
 }
