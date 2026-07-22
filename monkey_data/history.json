@@ -3935,6 +3935,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: accessory: laser_eyes \u2192 horns"
+    },
+    {
+      "timestamp": "2026-07-22T02:57:02.545653",
+      "dna_hash": "b0a0604d17733fe2",
+      "generation": 2,
+      "mutation_count": 116,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "curious",
+        "accessory": "horns",
+        "pattern": "hearts",
+        "background": "black_hole",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
