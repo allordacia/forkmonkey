@@ -50,46 +50,46 @@
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
 <rect width="400" height="400" fill="#0D1B2A"/>
-<circle cx="218" cy="62" r="1" fill="white" opacity="0.4"/>
-<circle cx="36" cy="124" r="2" fill="white" opacity="0.5"/>
-<circle cx="254" cy="186" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="72" cy="248" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="290" cy="310" r="1" fill="white" opacity="0.8"/>
-<circle cx="108" cy="372" r="2" fill="white" opacity="0.4"/>
-<circle cx="326" cy="34" r="1" fill="white" opacity="0.5"/>
-<circle cx="144" cy="96" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="362" cy="158" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="180" cy="220" r="2" fill="white" opacity="0.8"/>
-<circle cx="398" cy="282" r="1" fill="white" opacity="0.4"/>
-<circle cx="216" cy="344" r="2" fill="white" opacity="0.5"/>
-<circle cx="34" cy="6" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="252" cy="68" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="70" cy="130" r="1" fill="white" opacity="0.8"/>
-<circle cx="288" cy="192" r="2" fill="white" opacity="0.4"/>
-<circle cx="106" cy="254" r="1" fill="white" opacity="0.5"/>
-<circle cx="324" cy="316" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="142" cy="378" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="360" cy="40" r="2" fill="white" opacity="0.8"/>
-<circle cx="178" cy="102" r="1" fill="white" opacity="0.4"/>
-<circle cx="396" cy="164" r="2" fill="white" opacity="0.5"/>
-<circle cx="214" cy="226" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="32" cy="288" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="250" cy="350" r="1" fill="white" opacity="0.8"/>
-<circle cx="68" cy="12" r="2" fill="white" opacity="0.4"/>
-<circle cx="286" cy="74" r="1" fill="white" opacity="0.5"/>
-<circle cx="104" cy="136" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="322" cy="198" r="1" fill="white" opacity="0.7000000000000001"/>
+<circle cx="347" cy="73" r="1" fill="white" opacity="0.4"/>
+<circle cx="294" cy="146" r="2" fill="white" opacity="0.5"/>
+<circle cx="241" cy="219" r="1" fill="white" opacity="0.6000000000000001"/>
+<circle cx="188" cy="292" r="2" fill="white" opacity="0.7000000000000001"/>
+<circle cx="135" cy="365" r="1" fill="white" opacity="0.8"/>
+<circle cx="82" cy="38" r="2" fill="white" opacity="0.4"/>
+<circle cx="29" cy="111" r="1" fill="white" opacity="0.5"/>
+<circle cx="376" cy="184" r="2" fill="white" opacity="0.6000000000000001"/>
+<circle cx="323" cy="257" r="1" fill="white" opacity="0.7000000000000001"/>
+<circle cx="270" cy="330" r="2" fill="white" opacity="0.8"/>
+<circle cx="217" cy="3" r="1" fill="white" opacity="0.4"/>
+<circle cx="164" cy="76" r="2" fill="white" opacity="0.5"/>
+<circle cx="111" cy="149" r="1" fill="white" opacity="0.6000000000000001"/>
+<circle cx="58" cy="222" r="2" fill="white" opacity="0.7000000000000001"/>
+<circle cx="5" cy="295" r="1" fill="white" opacity="0.8"/>
+<circle cx="352" cy="368" r="2" fill="white" opacity="0.4"/>
+<circle cx="299" cy="41" r="1" fill="white" opacity="0.5"/>
+<circle cx="246" cy="114" r="2" fill="white" opacity="0.6000000000000001"/>
+<circle cx="193" cy="187" r="1" fill="white" opacity="0.7000000000000001"/>
 <circle cx="140" cy="260" r="2" fill="white" opacity="0.8"/>
-<circle cx="358" cy="322" r="1" fill="white" opacity="0.4"/>
-<circle cx="176" cy="384" r="2" fill="white" opacity="0.5"/>
-<circle cx="394" cy="46" r="1" fill="white" opacity="0.6000000000000001"/>
-<circle cx="212" cy="108" r="2" fill="white" opacity="0.7000000000000001"/>
-<circle cx="30" cy="170" r="1" fill="white" opacity="0.8"/>
-<circle cx="248" cy="232" r="2" fill="white" opacity="0.4"/>
-<circle cx="66" cy="294" r="1" fill="white" opacity="0.5"/>
-<circle cx="284" cy="356" r="2" fill="white" opacity="0.6000000000000001"/>
-<circle cx="102" cy="18" r="1" fill="white" opacity="0.7000000000000001"/>
-<circle cx="320" cy="80" r="2" fill="white" opacity="0.8"/>
+<circle cx="87" cy="333" r="1" fill="white" opacity="0.4"/>
+<circle cx="34" cy="6" r="2" fill="white" opacity="0.5"/>
+<circle cx="381" cy="79" r="1" fill="white" opacity="0.6000000000000001"/>
+<circle cx="328" cy="152" r="2" fill="white" opacity="0.7000000000000001"/>
+<circle cx="275" cy="225" r="1" fill="white" opacity="0.8"/>
+<circle cx="222" cy="298" r="2" fill="white" opacity="0.4"/>
+<circle cx="169" cy="371" r="1" fill="white" opacity="0.5"/>
+<circle cx="116" cy="44" r="2" fill="white" opacity="0.6000000000000001"/>
+<circle cx="63" cy="117" r="1" fill="white" opacity="0.7000000000000001"/>
+<circle cx="10" cy="190" r="2" fill="white" opacity="0.8"/>
+<circle cx="357" cy="263" r="1" fill="white" opacity="0.4"/>
+<circle cx="304" cy="336" r="2" fill="white" opacity="0.5"/>
+<circle cx="251" cy="9" r="1" fill="white" opacity="0.6000000000000001"/>
+<circle cx="198" cy="82" r="2" fill="white" opacity="0.7000000000000001"/>
+<circle cx="145" cy="155" r="1" fill="white" opacity="0.8"/>
+<circle cx="92" cy="228" r="2" fill="white" opacity="0.4"/>
+<circle cx="39" cy="301" r="1" fill="white" opacity="0.5"/>
+<circle cx="386" cy="374" r="2" fill="white" opacity="0.6000000000000001"/>
+<circle cx="333" cy="47" r="1" fill="white" opacity="0.7000000000000001"/>
+<circle cx="280" cy="120" r="2" fill="white" opacity="0.8"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#8B4513" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -118,7 +118,7 @@
             <ellipse cx="192" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
-<line x1="182" y1="260" x2="218" y2="260" stroke="#5D2E0C" stroke-width="2"/>
+<path d="M170 260 Q200 285 230 260" stroke="#5D2E0C" stroke-width="4" fill="none"/>
 <polygon points="200,10 145,85 255,85" fill="#4B0082"/><ellipse cx="200" cy="85" rx="65" ry="12" fill="#4B0082"/><text x="200" y="55" font-size="20" fill="#FFD700" text-anchor="middle">★</text>
 <ellipse cx="200" cy="340" rx="100" ry="20" fill="#000" opacity="0.2"/>
 <g transform="translate(325, 15)">
