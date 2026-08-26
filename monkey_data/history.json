@@ -4495,6 +4495,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: special: sparkles \u2192 glow"
+    },
+    {
+      "timestamp": "2026-08-26T01:36:58.946857",
+      "dna_hash": "4577ec3e0c28e94b",
+      "generation": 2,
+      "mutation_count": 138,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "wise",
+        "accessory": "wizard_hat",
+        "pattern": "fractals",
+        "background": "space",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: pattern: lightning \u2192 fractals"
     }
   ]
 }
