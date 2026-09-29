@@ -112,9 +112,9 @@ If you prefer to use Claude:
 
 <!-- MONKEY_STATS_START -->
 - **Generation**: 2
-- **Age**: 315 days
-- **Mutations**: 148
-- **Rarity Score**: 51.7/100
+- **Age**: 316 days
+- **Mutations**: 150
+- **Rarity Score**: 60.0/100
 <!-- MONKEY_STATS_END -->
 
 ## Family Tree
