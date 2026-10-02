@@ -5087,6 +5087,22 @@
         "special": "aura"
       },
       "story": "Your monkey evolved! Changes: accessory: diamond_chain \u2192 jetpack"
+    },
+    {
+      "timestamp": "2026-10-02T04:53:48.860243",
+      "dna_hash": "8379c962196c8757",
+      "generation": 2,
+      "mutation_count": 151,
+      "rarity_score": 60.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "laughing",
+        "accessory": "jetpack",
+        "pattern": "cosmic_dust",
+        "background": "space",
+        "special": "aura"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
