@@ -5151,6 +5151,22 @@
         "special": "aura"
       },
       "story": "Your monkey evolved! Changes: face_expression: laughing \u2192 winking"
+    },
+    {
+      "timestamp": "2026-10-06T05:40:25.218282",
+      "dna_hash": "2e4c79927041b76e",
+      "generation": 2,
+      "mutation_count": 153,
+      "rarity_score": 60.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "winking",
+        "accessory": "jetpack",
+        "pattern": "cosmic_dust",
+        "background": "space",
+        "special": "aura"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
