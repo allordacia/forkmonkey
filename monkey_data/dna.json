@@ -1,19 +1,19 @@
 {
   "generation": 2,
   "parent_id": "607d9f7ac7e9bc45",
-  "dna_hash": "f4b91dcb42b54e14",
-  "mutation_count": 154,
+  "dna_hash": "eb646ac945e5286e",
+  "mutation_count": 156,
   "birth_timestamp": 656402,
   "traits": {
     "body_color": {
-      "value": "brown",
+      "value": "tan",
       "rarity": "common",
-      "gene_sequence": "d47133ea"
+      "gene_sequence": "11949536"
     },
     "face_expression": {
-      "value": "winking",
+      "value": "surprised",
       "rarity": "rare",
-      "gene_sequence": "65d8a2d3"
+      "gene_sequence": "0f873f07"
     },
     "accessory": {
       "value": "jetpack",
