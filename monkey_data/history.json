@@ -5247,6 +5247,22 @@
         "special": "aura"
       },
       "story": "Your monkey evolved! Changes: body_color: brown \u2192 tan, face_expression: winking \u2192 surprised"
+    },
+    {
+      "timestamp": "2026-10-12T05:13:06.575860",
+      "dna_hash": "eb646ac945e5286e",
+      "generation": 2,
+      "mutation_count": 156,
+      "rarity_score": 60.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "surprised",
+        "accessory": "jetpack",
+        "pattern": "cosmic_dust",
+        "background": "space",
+        "special": "aura"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
