@@ -5263,6 +5263,22 @@
         "special": "aura"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-10-13T06:12:08.542048",
+      "dna_hash": "eb646ac945e5286e",
+      "generation": 2,
+      "mutation_count": 156,
+      "rarity_score": 60.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "surprised",
+        "accessory": "jetpack",
+        "pattern": "cosmic_dust",
+        "background": "space",
+        "special": "aura"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
