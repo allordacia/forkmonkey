@@ -5407,6 +5407,22 @@
         "special": "aura"
       },
       "story": "Your monkey evolved! Changes: accessory: jetpack \u2192 wings, pattern: aurora \u2192 cosmic_dust"
+    },
+    {
+      "timestamp": "2026-10-22T04:00:45.895775",
+      "dna_hash": "a6aa739c2eca566e",
+      "generation": 2,
+      "mutation_count": 161,
+      "rarity_score": 60.0,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "surprised",
+        "accessory": "wings",
+        "pattern": "cosmic_dust",
+        "background": "space",
+        "special": "aura"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
