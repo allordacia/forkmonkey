@@ -50,7 +50,7 @@
     <clipPath id="head-clip"><ellipse cx="200" cy="200" rx="110" ry="115"/></clipPath>
 </defs>
 <rect width="400" height="400" fill="url(#aurora-gradient)"/>
-
+<circle cx="200" cy="200" r="180" fill="url(#multiverse-gradient)" opacity="0.15"/>
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#F5F5DC" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
 <ellipse cx="115" cy="145" rx="18" ry="22" fill="#FF9999"/>
@@ -82,7 +82,7 @@
 <path d="M147 160 Q162 150 177 160" stroke="#5D2E0C" stroke-width="3" fill="none"/>
 <path d="M223 160 Q238 150 253 160" stroke="#5D2E0C" stroke-width="3" fill="none"/>
 <polygon points="155,70 170,35 190,60 210,35 230,60 245,35 245,85 155,85" fill="#FFD700" stroke="#B8860B" stroke-width="3"/><circle cx="200" cy="45" r="8" fill="#E74C3C"/><circle cx="175" cy="55" r="5" fill="#3498DB"/><circle cx="225" cy="55" r="5" fill="#2ECC71"/>
-<circle cx="100" cy="100" r="3" fill="#FFD700" opacity="0.6"/><circle cx="230" cy="270" r="3" fill="#FFD700" opacity="0.6"/><circle cx="160" cy="240" r="3" fill="#FFD700" opacity="0.6"/><circle cx="290" cy="210" r="3" fill="#FFD700" opacity="0.6"/><circle cx="220" cy="180" r="3" fill="#FFD700" opacity="0.6"/><circle cx="150" cy="150" r="3" fill="#FFD700" opacity="0.6"/><circle cx="280" cy="120" r="3" fill="#FFD700" opacity="0.6"/><circle cx="210" cy="290" r="3" fill="#FFD700" opacity="0.6"/><circle cx="140" cy="260" r="3" fill="#FFD700" opacity="0.6"/><circle cx="270" cy="230" r="3" fill="#FFD700" opacity="0.6"/><circle cx="200" cy="200" r="3" fill="#FFD700" opacity="0.6"/><circle cx="130" cy="170" r="3" fill="#FFD700" opacity="0.6"/>
+<circle cx="200" cy="200" r="155" fill="none" stroke="#FF00FF" stroke-width="3" opacity="0.4" filter="url(#glow)"/><circle cx="200" cy="200" r="165" fill="none" stroke="#00FFFF" stroke-width="2" opacity="0.3"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#9370DB" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">RARE</text>
