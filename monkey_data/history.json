@@ -5567,6 +5567,22 @@
         "special": "transcendent"
       },
       "story": "Your monkey evolved! Changes: special: mythical \u2192 transcendent"
+    },
+    {
+      "timestamp": "2026-11-01T05:15:33.713942",
+      "dna_hash": "4c7f3dc7b86e17b7",
+      "generation": 2,
+      "mutation_count": 168,
+      "rarity_score": 68.33333333333333,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "surprised",
+        "accessory": "golden_crown",
+        "pattern": "void",
+        "background": "space",
+        "special": "transcendent"
+      },
+      "story": "Your monkey evolved! Changes: background: aurora \u2192 space"
     }
   ]
 }
