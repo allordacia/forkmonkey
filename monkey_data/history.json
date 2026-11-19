@@ -5855,6 +5855,22 @@
         "special": "energy"
       },
       "story": "Your monkey evolved! Changes: body_color: tan \u2192 bronze"
+    },
+    {
+      "timestamp": "2026-11-19T06:43:07.931520",
+      "dna_hash": "825d8d9d0603302d",
+      "generation": 2,
+      "mutation_count": 178,
+      "rarity_score": 70.0,
+      "traits": {
+        "body_color": "bronze",
+        "face_expression": "winking",
+        "accessory": "jetpack",
+        "pattern": "aurora",
+        "background": "heaven",
+        "special": "energy"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
